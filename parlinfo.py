@@ -1,4 +1,4 @@
-#!./venv/bin/python3.3
+#!/usr/bin/python3
 
 import requests, urllib, os, time, re
 import lxml, lxml.etree, json, sys
